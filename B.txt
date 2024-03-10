@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is a cake.
+=======
+This is a bear.
+>>>>>>> testdev
